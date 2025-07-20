@@ -8,4 +8,4 @@ Feel free to explore the available resources. Any feedback or suggestions are al
 
 ## Thanks  
 
-Special thanks to **Dr. Isabelle Schrauwen** for her invaluable guidance and support.  
+Special thanks to Dr. Isabelle Schrauwen for her invaluable guidance and support.  
