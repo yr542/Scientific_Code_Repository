@@ -7,7 +7,7 @@
 
 | Variable               | Description                                                 |
 |-------------|-----------------------------------|
-| `INPUT_FILE`           | Path to the Step 08 VEP SubStep 1 `___.sorted.vcf.gz"` file |
+| `INPUT_FILE`           | Path to the Step 08 VEP `___.sorted.vcf.gz"` file |
 | `PARENT_DIRECTORY`     | Path to the parent directory for your output folders        |
 | `Output_File_BaseName` | An output file basename of your choice                      | 
 | `CACHE_DIR`            | Path to the VEP cache directory                             |
