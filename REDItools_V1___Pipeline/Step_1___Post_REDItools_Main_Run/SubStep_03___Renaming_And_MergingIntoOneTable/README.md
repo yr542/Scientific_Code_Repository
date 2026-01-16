@@ -16,7 +16,7 @@ This part renames 3 columns the Non_Edited_Count, Edited_Count and the Edited_Co
 2) Edit the bash script used to execute the Rscript. It requires one path in the variable `RSCRIPT_DIR` which is the path to the directory containing the R script. After the `Rscript` command you need to put the name of the R script in this case `Part_2___RenamingColumnsFor_NonEditedCount_EditedCount_And_EditedCountProportion.R`. 
 3) Run the bash script and this bash script will execute the R script.
 
-### SubStep 3 Part 2: The Main Merge Step
+### SubStep 3 Part 2: The Main Merge SubStep
 
 **Description:**
 
