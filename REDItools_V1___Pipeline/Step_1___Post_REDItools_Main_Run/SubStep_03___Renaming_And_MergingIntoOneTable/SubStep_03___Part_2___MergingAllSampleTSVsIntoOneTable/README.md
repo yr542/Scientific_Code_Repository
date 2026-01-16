@@ -1,11 +1,11 @@
 # SubStep 3: Renaming Relevant Columns And Merging Into One Table
-# SubStep 3 Part 2: Merging All Part 1 Samples Into One Table
+## SubStep 3 Part 2: Merging All Part 1 Samples Into One Table
 
 **Description:**
 
 This part merges all the `SampleNameNon_Edited_Count`, `SampleNameEdited_Count` and the `SampleNameEdited_Count_Proportion` together via an inner join effectively retaining only the rows that intersect by Region_Position for all the samples.
 
-## Protocol
+### Protocol
 
 1) Edit the R script found in the `Part_2___MergingAllSampleTSVsIntoOneTable` to have the following inputs:
 
